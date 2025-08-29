@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cambio realizo en GitHub (rama main)
+=======
+Cambio realizado en github (rama main)
+>>>>>>> d798efbacd288f18d9812045d2be94c4dada308d
